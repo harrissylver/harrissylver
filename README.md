@@ -17,6 +17,7 @@ I am currently open to **freelance** and **full-time opportunities**.
 
 ### Frontend
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white&style=for-the-badge)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
@@ -53,7 +54,7 @@ I am currently open to **freelance** and **full-time opportunities**.
 
 
 **Email**: [harrissylver@gmail.com](mailto:harrissylver@gmail.com)  
-**Portfolio**: https://portfolio.harrissylver.com()
-**LinkedIn**: https://www.linkedin.com/in/sylver-harris-bb0407317()
+**Portfolio**: https://portfolio.harrissylver.com  
+**LinkedIn**: https://www.linkedin.com/in/sylver-harris-bb0407317
 
  
