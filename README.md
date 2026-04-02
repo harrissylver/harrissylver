@@ -52,8 +52,8 @@ I am currently open to **freelance** and **full-time opportunities**.
 - Keycloak (Authentication & RBAC)
 
 
-**Email**: [harrissylver@gmail.com](mailto:ereanass@gmail.com)  
-**Portfolio**: https://portfolio.harrissylver.com
-**LinkedIn**: https://www.linkedin.com/in/sylver-harris-bb0407317  
+**Email**: [harrissylver@gmail.com](mailto:harrissylver@gmail.com)  
+**Portfolio**: https://portfolio.harrissylver.com()
+**LinkedIn**: https://www.linkedin.com/in/sylver-harris-bb0407317()
 
  
